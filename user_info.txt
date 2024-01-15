@@ -1,0 +1,6 @@
+Username: SUVAJIT
+Age: 45
+UserID: 77896
+Followers: 89
+Following: 12345
+
